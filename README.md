@@ -71,13 +71,13 @@ The project does not require environment variables or API keys.
 Clone the repository:
 
 ```bash
-git clone https://github.com/NoroffFEU/jsfw-2025-v1-annika-js-frameworks-ca.git
+git clone https://github.com/Found
 ```
 
 Move into the project directory:
 
 ```bash
-cd jsfw-2025-v1-annika-js-frameworks-ca
+cd Found
 ```
 
 Install the dependencies:
@@ -124,7 +124,7 @@ https://found-found.netlify.app/
 
 ## Repository and Contact
 
-The project repository is available on [GitHub](https://github.com/NoroffFEU/jsfw-2025-v1-annika-js-frameworks-ca).
+The project repository is available on [GitHub](https://github.com/Found.
 
 Feedback may be submitted through the repository’s issue tracker.
 
