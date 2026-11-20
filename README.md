@@ -71,7 +71,7 @@ The project does not require environment variables or API keys.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Found
+git clone https://github.com/annikaeld/Found.git
 ```
 
 Move into the project directory:
@@ -124,7 +124,7 @@ https://found-found.netlify.app/
 
 ## Repository and Contact
 
-The project repository is available on [GitHub](https://github.com/Found.
+The project repository is available on [GitHub](https://github.com/annikaeld/Found)
 
 Feedback may be submitted through the repository’s issue tracker.
 
